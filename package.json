@@ -1,0 +1,17 @@
+{
+  "name": "next-sample-msm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
